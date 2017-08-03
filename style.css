@@ -108,6 +108,19 @@ ul li {
 #bio {
   width: 100%;
 }
+
+#first_name {
+  width: 30%;
+  padding: 10px;
+  margin: 0 50px 0 10px;
+}
+
+#last_name {
+  width: 30%;
+  padding: 10px;
+  margin-left: 10px
+}
+
 #page_content {
   background: white;
   padding: 10px 50px 10px 50px;
